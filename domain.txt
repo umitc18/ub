@@ -1,3 +1,6 @@
 *.cdnhipter.xyz/*
 ||sv*.luffytra*.top^
 ||palazzobet*.com^$all
+
+# tranimeizle
+tranimeizle.*##.other-ads
